@@ -1,0 +1,5 @@
+flask
+prophet
+pandas
+numpy
+scikit-learn
